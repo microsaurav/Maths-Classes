@@ -1,8 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.singuplogin">
    <application
-        android:label="singuplogin"
+        android:label="D.L Das Classes"
         android:icon="@mipmap/ic_launcher">
+        <meta-data android:name="com.google.android.geo.API_KEY"
+               android:value="AIzaSyAgfJy5TMAj9W1Cqixhb1f3Z_i4vdfcF2w"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

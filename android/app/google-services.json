@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "82445103562",
+    "project_id": "teaching-e24c3",
+    "storage_bucket": "teaching-e24c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82445103562:android:1a71a14bff228771761f33",
+        "android_client_info": {
+          "package_name": "com.example.singuplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82445103562-jolagod0inh2s1faqft6ipj3jlal7ojq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZJHanI_KycVrGIVc4n9y77OzjGNrJQgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82445103562-jolagod0inh2s1faqft6ipj3jlal7ojq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
